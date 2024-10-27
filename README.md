@@ -1,4 +1,4 @@
-# Proyecto Individual - Agendamiento de citas para veterinarias
+# Proyecto Individual Paola - Agendamiento de citas para veterinarias
 
 ## El sistema es una plataforma digital diseñada para simplificar el proceso de agendamiento de citas médicas para mascotas. A través de una interfaz amigable, los clientes podrán consultar la disponibilidad de fechas, horarios y médicos veterinarios, lo que les permitirá programar citas de manera eficiente y sin complicaciones.
 
